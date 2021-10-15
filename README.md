@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ms0mi
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning python and PowerBi
-- 💞️ I’m looking to to learn as well as collaborate on data analysis projects
+- 💞️ I’m looking to learn as well as to collaborate on data analysis projects
 - 📫 You are welcome to hit my inbox if you need to reach me
 
 <!---
